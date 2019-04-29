@@ -15,6 +15,7 @@ Create a API that serves the latest scores of fixtures of matches in a “**Mock
     - add
     - remove
     - edit (move date)
+  - Generate unique links for fixtures
 - **Users** can
   - signup/login
   - view teams
@@ -47,8 +48,8 @@ Bonus points for use of `web caching`.
 
 # Duration
 
-5 days
+7 days
 
 # NB:
 
-Please send an email to acknowledge the receipt of this document. Your time will regardless of your acknowledgement.
+Please send an email to acknowledge the receipt of this document.
