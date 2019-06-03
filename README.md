@@ -46,9 +46,9 @@ Bonus points for use of `web caching`.
 3. Bonus point for using POSTMAN documentation.
 4. Seed the db before final submission
 
-# Duration
+# Time Duration
 
-7 days
+4 days
 
 # NB:
 
