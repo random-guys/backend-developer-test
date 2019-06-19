@@ -23,7 +23,7 @@ There should be:
 
 1. Ensure the service is stateless.
 2. Session management should be handled using Redis.
-3. Authenthecation and Authorization for admin and user accounts should be done using `Bearer token` and `JWT`.
+3. Authentication and Authorization for admin and user accounts should be done using `Bearer token` and `JWT`.
 
 ## Tools/Stack
 
@@ -35,18 +35,19 @@ Unit tests are a must, submissions without tests will be ignored.
 
 ## Submission
 
-1. Your API endpoints shoud be documented in POSTMAN.
+1. Your API endpoints should be documented in POSTMAN.
 2. Seed the db with lots of data before final submission.
 3. Code should be hosted on a git repository, Github preferably.
 4. The API should be hosted on a live server (e.g. https://heroku.com)
 
 ## Bonus
 
-1. Bonus points for `containerization` using `docker`.
-2. Bonus point for thorough documentation using POSTMAN.
-3. Bonus points for e2e tests and use of `Jest` for tests.
-4. Bonus points for `web caching` API endpoints using `Redis`.
-5. Bonus points for implementing `rate limiting` for user account API access.
+You'll get bonus points for:
+1. `containerization` using `docker`.
+2. Thorough documentation using POSTMAN.
+3. e2e tests and use of `Jest` for tests.
+4. `web caching` API endpoints using `Redis`.
+5. Implementing `rate limiting` for user account API access.
 
 ## Time Duration
 
