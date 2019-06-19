@@ -27,7 +27,13 @@ There should be:
 
 ## Tools/Stack
 
-NodeJs (JavaScript or TypeScript)
+- NodeJs (JavaScript or TypeScript)
+- MongoDB
+- Redis
+- Docker
+- POSTMAN
+- Jest
+- Express
 
 ## Tests
 
