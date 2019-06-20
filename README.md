@@ -20,9 +20,7 @@ There should be:
 - Only the search API should be availble to the public.
 
 ## Authentication and Session Management
-
-1. Ensure the service is stateless.
-2. Session management should be handled using Redis.
+1. Use redis as your session store.
 3. Authentication and Authorization for admin and user accounts should be done using `Bearer token` and `JWT`.
 
 ## Tools/Stack
