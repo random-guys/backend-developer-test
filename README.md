@@ -1,6 +1,6 @@
 # Software Developer Application Test
 
-Create a API that serves the latest scores of fixtures of matches in a “**Mock Premier League**”
+Create an API that serves the latest scores of fixtures of matches in a “**Mock Premier League**”
 
 ## User Types
 
