@@ -25,13 +25,11 @@ There should be:
 
 ## Tools/Stack
 
-- NodeJs (TypeScript)
+- NodeJs (TypeScript & Express) Or Golang
 - MongoDB
 - Redis
 - Docker
 - POSTMAN
-- Jest
-- Express
 
 ## Tests
 
@@ -49,7 +47,7 @@ Unit tests are a must, submissions without tests will be ignored.
 You'll get bonus points for:
 1. `containerization` using `docker`.
 2. Thorough documentation using POSTMAN.
-3. e2e tests and use of `Jest` for tests.
+3. e2e tests.
 4. `web caching` API endpoints using `Redis`.
 5. Implementing `rate limiting` for user account API access.
 
