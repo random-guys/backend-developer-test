@@ -25,7 +25,7 @@ There should be:
 
 ## Tools/Stack
 
-- NodeJs (TypeScript & Express) Or Golang
+- NodeJs (TypeScript & Express) or Golang
 - MongoDB
 - Redis
 - Docker
@@ -37,19 +37,14 @@ Unit tests are a must, submissions without tests will be ignored.
 
 ## Submission
 
-1. Your API endpoints should be documented in POSTMAN.
+1. Your API endpoints should be well documented in POSTMAN.
 2. Seed the db with lots of data before final submission.
 3. Code should be hosted on a git repository, Github preferably.
 4. The API should be hosted on a live server (e.g. https://heroku.com)
-
-## Bonus
-
-You'll get bonus points for:
-1. `containerization` using `docker`.
-2. Thorough documentation using POSTMAN.
-3. e2e tests.
-4. `web caching` API endpoints using `Redis`.
-5. Implementing `rate limiting` for user account API access.
+5. Your app should be `containerized` using `docker`.
+7. Write e2e tests for all user stories
+8. Implement `web caching` API endpoints using `Redis`.
+9. Implement `rate limiting` for user account API access.
 
 ## Time Duration
 
