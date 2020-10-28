@@ -25,7 +25,7 @@ There should be:
 
 ## Tools/Stack
 
-- NodeJs (JavaScript or TypeScript)
+- NodeJs (TypeScript)
 - MongoDB
 - Redis
 - Docker
